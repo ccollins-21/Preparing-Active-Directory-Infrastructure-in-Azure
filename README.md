@@ -1,0 +1,2 @@
+# Preparing-Active-Directory-Infrastructure-in-Azure
+In this project I create a two VMs (Virtual Machines), one running Windows Server, to act as a Domain Controller. The other VM will act as a client, running Windows 10 that will join the domain. In later projects I will run a script that will create users in the domain, which I can log into from the client VM, to simulate a real life environment.
