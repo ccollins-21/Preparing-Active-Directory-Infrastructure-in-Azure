@@ -41,7 +41,7 @@ Once my resource group and network is created, I'll create and set up the virtua
 <img src="https://i.imgur.com/JiVXyJQ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-In the Network tab of this VM, I'll make sure it will create itself on the virtual network I just created. I'll leave all other settings default and create this VM: <br/>
+In the Networking tab of this VM, I'll make sure it will create itself on the virtual network I just created. I'll leave all other settings default and create this VM: <br/>
 <img src="https://i.imgur.com/ghqn7TI.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
@@ -52,7 +52,7 @@ Now, I'll create another VM that will serve as the client. The image for this ma
 <img src="https://i.imgur.com/EBRXTaM.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-In the Network tab of this VM, I'll make sure it will create itself on the same virtual network of the previous machine created. I'll leave all other settings default and create this VM:  <br/>
+In the Networking tab of this VM, I'll make sure it will create itself on the same virtual network of the previous machine created. I'll leave all other settings default and create this VM:  <br/>
 <img src="https://i.imgur.com/RYUn5oi.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
