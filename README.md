@@ -7,7 +7,7 @@
  ### [YouTube Demonstration](https://youtu.be) Coming Soon.
 
 <h2>Description</h2>
-Project consists of setting up all the prerequisites and installing osTicket from scratch. This was done on a Windows 10 Virtual Machine I created in Azure. osTicket is a widely used and trusted open source Help Desk ticketing system. <br/>
+In this project I create two VMs (Virtual Machines), one running Windows Server, to act as a Domain Controller. The other VM will act as a client, running Windows 10 that will join the domain. In later projects I will deploy AD, run a script that will create users in the domain, which I can log into from the client VM, then manage the accounts and update the group policies, all to simulate a real life environment.  <br/>
 <br />
 
 
@@ -16,7 +16,6 @@ Project consists of setting up all the prerequisites and installing osTicket fro
 - <b>Microsoft Azure</b>
 - <b>Virtual Machines</b>
 - <b>Remote Desktop Connection</b>
-- <b>Active Directory</b>
 
 
 <h2>Operating Systems Used </h2>
@@ -115,9 +114,9 @@ While I'm here I can double check that the DNS server settings are pointing to t
 <br />
 <br />
 
-<h2>osTicket Installed!</h2>
+<h2>Active Directory Infrastructure is Now Prepared! </h2>
 
-<b>osTicket is now installed and ready for use! In the next project I will walk you through how to configure agents, their permissions and access, users, and more!  </b>
+<b>We've successfully created two VMs (Virtual Machines), one running Windows Server, to act as a Domain Controller. The other VM as a client, running Windows 10 that joined the domain! Don't forget: In later projects I will deploy AD, run a script that will create users in the domain, which I can log into from the client VM, then manage the accounts and update the group policies, all to simulate a real life environment!  </b>
 <br />
 <br />
 </p>
